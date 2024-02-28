@@ -24,3 +24,4 @@ print("i" + " " + "am" + " " + my_name) #just string type sentence
 print("my sister's" + " " + "name" + " " + "is" + " " + sister_name)#just string type sentence of my sister
 print("i" + " " + "am" + " " + str(my_name) + "," + "i" + " " + "am" + " " + str(my_age) + "yo" + " " + "and" +
        " " + "my" + " " + "hobby" + " " + "is" + " " + str(my_hobby)) #printed sentence about me using str function
+#goa

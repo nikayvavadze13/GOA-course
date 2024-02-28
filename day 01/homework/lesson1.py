@@ -5,3 +5,4 @@ story = "i joined GOA because i want to improve and upgrade myself"
 age = "my age is 14"
 
 print(name + " " + surname + " " + height + " " + age + " " + story + "." )
+#goa
